@@ -1,0 +1,127 @@
+.head {
+  margin-top: 1%;
+  margin-left: 25%;
+  color: #666;
+}
+
+.pic {
+  margin-top: 15px;
+  max-width: 100%;
+  box-sizing: border-box;
+  align-self: center;
+}
+
+.bottom-space {
+  margin-bottom: 1%;
+  margin-top: 1%;
+}
+
+.point {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 22px;
+  padding: 0 10% 0 0;
+  margin-bottom: 5%;
+  margin-left: 2%;
+  padding-right: 5%;
+}
+
+.big-letters {
+  padding: 0 0 -1% 0;
+  font-size: 36px;
+  font-weight: bold;
+  letter-spacing: -2px
+}
+
+.medium-letters {
+  font-size: 20px;
+  margin: 0 0 5px 0;
+  position: relative;
+}
+
+.main-padding {
+  padding: 2%;
+}
+
+.main {
+  font: 15px Helvetica, Sans-Serif;
+  line-height: 24px;
+  background-color: #ceefe4;
+}
+
+.prof {
+  color: #999;
+  font-weight: normal;
+}
+
+.list {
+  list-style-type: disc;
+}
+
+.left-space {
+  margin-left: 2%;
+}
+
+li {
+  margin-bottom: 3px
+}
+
+p {
+  margin: 0 0 3px 0;
+}
+
+.date {
+  margin-bottom: -2px;
+}
+
+.git {
+  margin-top: 1%;
+}
+
+.space {
+  margin-top: 2%;
+}
+
+.eng {
+  margin-top: 7%;
+  margin-left: 2%;
+}
+
+.point-gap {
+  margin-top: -3%
+}
+
+.title-gap {
+  margin-top: -1%
+}
+
+.strength {
+  list-style-type: square;
+}
+
+.icons {
+  margin-top: 1%;
+  margin-left: 2%;
+  text-decoration: none;
+  outline: none
+}
+
+.name {
+  margin-top: 8%;
+  margin-left: 2%;
+}
+
+.left-margin {
+  margin-left: 45%;
+}
+
+.ico-width {
+  width:15%;
+  outline: none;
+  border: 0;
+}
+
+.page-head {
+  margin-top: -1%;
+  border-bottom: 1px solid #999;
+}
